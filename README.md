@@ -32,4 +32,4 @@ An admin dashboard
 
 ### Live Demo
 
-[Link to live demo](#)
+[Link to live demo](https://635e92af802d90517f3e71b5--subtle-sherbet-c32374.netlify.app/)
